@@ -2,7 +2,7 @@
 
 This repo contains teaching materials for [Rutgers-SICSS 2021](https://sicss.io/2021/rutgers/) on collecting Twitter data for social science research. 
 
-Here you can find the slides and Academic API tutorial used throughout the workshop.
+Here you can find the slides and the Academic API tutorial used throughout the workshop.
 
 
 
