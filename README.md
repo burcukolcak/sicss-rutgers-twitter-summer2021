@@ -4,6 +4,8 @@ This repo contains teaching materials for [Rutgers-SICSS 2021](https://sicss.io/
 
 Here you can find the slides and the Academic API tutorial used throughout the workshop.
 
+Note: The Academic API tutorial has been updated following the changes in some functions of the 'academicTwitter' package after the Summer Institute. 
+
 
 
 
